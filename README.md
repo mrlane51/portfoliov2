@@ -1,3 +1,2 @@
 ### Contributions :
-https://github.com/docmars
-https://codepen.io/andymerskin/pen/XNMWvQ
+https://codepen.io/nicolaspavlotsky/pen/wqGgLO
