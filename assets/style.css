@@ -34,18 +34,11 @@ font-size: 2rem;
     z-index: 20;
     font-family: 'Trebuchet MS';
     }
-    
 
 .nav {
 text-align: left;
 font-weight: italic;
 font-size: 2rem;
-}
-
-#nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 
 h1 {
@@ -65,7 +58,7 @@ p {
     font-size: 1.1rem;
     }
 
-    section {
+section {
 display: flex;
 height: 100vh ;
 align-items:center;
